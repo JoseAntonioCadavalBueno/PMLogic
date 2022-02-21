@@ -10,7 +10,7 @@ Easy multilayer perceptron that can turn celsius to farenheight.
  - 1.- Check your GPU: https://developer.nvidia.com/cuda-gpus
  - 2.- Install Cuda
  - 3.- Copy from cudnn these files:
-        -  "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\bin\cudnn64_8.dll" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin".
+        - "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\bin\cudnn64_8.dll" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin".
         - "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\include\cudnn.h" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include".
         - "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\lib\x64\cudnn.lib" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64".
  - 4.- Install Anaconda 3 and execute anaconda prompt (anaconda3)
