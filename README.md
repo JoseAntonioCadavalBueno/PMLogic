@@ -8,13 +8,13 @@ Easy multilayer perceptron that can turn celsius to farenheight.
   - Anaconda 3
 *Install steps:
   1.- Check your GPU: https://developer.nvidia.com/cuda-gpus
-  2.- Install Cuda
-  3.- Copy from cudnn these files:
-          "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\bin\cudnn64_8.dll" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin".
-          "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\include\cudnn.h" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include".
-          "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\lib\x64\cudnn.lib" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64".
-  4.- Install Anaconda 3 and execute anaconda prompt (anaconda3)
-  5.- Create a new env: "conda create --name 'your name'"
-  6.- Activate the env: "conda activate 'your name'"
-  7.- Install tensorflow: "pip install tensorflow-gpu"
-  8.- Run check.py for check if everything is correct
+  2.- Install Cuda\n
+  3.- Copy from cudnn these files:\n
+          "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\bin\cudnn64_8.dll" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin".\n
+          "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\include\cudnn.h" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include".\n
+          "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\lib\x64\cudnn.lib" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\lib\x64".\n
+  4.- Install Anaconda 3 and execute anaconda prompt (anaconda3)\n
+  5.- Create a new env: "conda create --name 'your name'"\n
+  6.- Activate the env: "conda activate 'your name'"\n
+  7.- Install tensorflow: "pip install tensorflow-gpu"\n
+  8.- Run check.py for check if everything is correct\n
