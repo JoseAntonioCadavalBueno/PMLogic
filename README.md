@@ -1,5 +1,5 @@
 # PMLogic
-Easy multilayer perceptron that can turn celsius to farenheight.
+Easy multilayer perceptron, it will try turn celsius to farenheight.
 *Requirement:
   - Cuda ver. 11.6
   - Cudnn ver. 8.3
