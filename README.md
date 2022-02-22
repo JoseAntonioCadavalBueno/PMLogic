@@ -8,7 +8,7 @@ Easy multilayer perceptron, he will try turn celsius to farenheight. Be good wit
   - Anaconda 3
 - Install steps:
   - 1.- Check your GPU: https://developer.nvidia.com/cuda-gpus
-  - 2.- Install Cuda
+  - 2.- Just install Cuda
   - 3.- Download Cudnn and extract files: https://developer.nvidia.com/cudnn
   - 4.- Copy from cudnn these files:
     - "\cudnn-11.0-windows-x64-v8.0.4.30\cuda\bin\cudnn64_8.dll" to "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin".
