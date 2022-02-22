@@ -1,12 +1,12 @@
 # PMLogic
 Easy multilayer perceptron, it will try turn celsius to farenheight.
-*Requirement:
+- Requirement:
   - Cuda ver. 11.6
   - Cudnn ver. 8.3
   - Python ver. 3.9
   - Tensorflow ver. 2.8
   - Anaconda 3
-*Install steps:
+- Install steps:
  - 1.- Check your GPU: https://developer.nvidia.com/cuda-gpus
  - 2.- Install Cuda
  - 3.- Copy from cudnn these files:
